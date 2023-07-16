@@ -19,7 +19,7 @@ This is a basic web-based calculator app built using HTML and CSS. It allows use
 3. Use the "=" button to see the result of your calculation.
 
 Example:
-1+2 = 3
-2-3 = 1
-3*5 = 15
-4/5 = 0.8
+* 1+2 = 3
+* 2-3 = 1
+* 3*5 = 15
+* 4/5 = 0.8
